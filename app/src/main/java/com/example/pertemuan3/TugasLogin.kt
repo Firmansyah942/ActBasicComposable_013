@@ -59,14 +59,14 @@ fun TugasLogin() {
                 modifier = Modifier.size(140.dp)
             )
             Text(
-                text = "Fransdito Bayu Pratama",
+                text = "Firmansyah",
                 color = Color.Blue,
                 fontSize = 18.sp,
                 fontWeight = FontWeight.Bold,
                 modifier = Modifier.padding(top = 4.dp)
             )
             Text(
-                text = "20240140044",
+                text = "20240140013",
                 color = Color.Black,
                 fontSize = 22.sp,
                 fontWeight = FontWeight.Bold,
